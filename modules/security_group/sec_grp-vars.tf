@@ -1,4 +1,4 @@
-variable "security_group_id" {
-  description = "The ID of the security group"
+variable "vpc_ids" {
+  description = "The IDs of the VPCs"
   type = list(string)
 }
