@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"SecurityGroups","Source":"./SecurityGroups","Dir":""},{"Key":"blue_vpc","Source":"./modules/vpc","Dir":"modules/vpc"},{"Key":"green_vpc","Source":"./modules/vpc","Dir":"modules/vpc"},{"Key":"hai_blue","Source":"./modules/asg","Dir":"modules/asg"},{"Key":"hai_green","Source":"./modules/asg","Dir":"modules/asg"}]}
